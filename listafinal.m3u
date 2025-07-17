@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 , tvg-id="azteca 7" tvg-name="Azteca 7", group-title="Deportes", Azteca 7 🇲🇽
+#EXTINF:-1 , Azteca 7 🇲🇽
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1, tvg-id="tudn" tvg-name="TUDN", group-title="Deportes", TUDN 🇺🇸
+#EXTINF:-1, TUDN 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1, TUDN 🇺🇸
@@ -15,3 +15,23 @@ http://190.61.116.155:7000/play/a0b9
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1, Fox Deportes 🇲🇽
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
+
+#EXTINF:-1,ESPN DEPORTES 🇺🇸
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 LAS ESTRELLAS 🇲🇽
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1, CLARO SPORTS 🇲🇽
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1, CALIENTE TV 🇲🇽 [NO 24/7]
+https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
