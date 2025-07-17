@@ -18,38 +18,3 @@ http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1,TELEMUNDO 🇲🇽
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1, tvg-id="foxsportsmx" tvg-name="Fox Sports MX 1" group-title="Deportes", Fox Sports MX 🇲🇽 (Opción 1)
-https://lima.crackstreamslivehd.com/foxsportsmx/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=de438ee1261149fdcd5cc91f3d5ed083cc4bb758-76-1752827120-1752773120
-
-#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports MX 2" group-title="Deportes", Fox Sports MX 🇲🇽 (Opción 2)
-https://florcd1.crackstreamslivehd.com/global/foxsportsmx/index.m3u8?token=de438ee1261149fdcd5cc91f3d5ed083cc4bb758-76-1752827120-1752773120&ip=189.158.95.93
-
-#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium 1" group-title="Deportes", Fox Sports Premium 🇲🇽 (Opción 1)
-https://51a1.crackstreamslivehd.com/foxsportspremium/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=fa12a24ed12470c9896e754f0cbbec8485b55ba5-59-1752827779-1752773779
-
-#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium 2" group-title="Deportes", Fox Sports Premium 🇲🇽 (Opción 2)
-https://24a1.crackstreamslivehd.com/global/foxsportspremium/index.m3u8?token=fa12a24ed12470c9896e754f0cbbec8485b55ba5-59-1752827779-1752773779&ip=189.158.95.93
-
-#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium 3" group-title="Deportes", Fox Sports Premium 🇲🇽 (Opción 3)
-https://london.crackstreamslivehd.com/foxsportspremium/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=2ee6518a4383d83cdcf18da06ef8ae7858e58484-11-1752827766-1752773766
-
-#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN MX 1" group-title="Deportes", ESPN MX 🇲🇽 (Opción 1)
-https://8895.crackstreamslivehd.com/espnmx/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=abc5d2e1cfe9d2472cc79d256d91db1f56bded67-34-1752827342-1752773342
-
-#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN MX 2" group-title="Deportes", ESPN MX 🇲🇽 (Opción 2)
-https://pecdl1.crackstreamslivehd.com/global/espnmx/index.m3u8?token=abc5d2e1cfe9d2472cc79d256d91db1f56bded67-34-1752827342-1752773342&ip=189.158.95.93
-
-#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN MX 3" group-title="Deportes", ESPN MX 🇲🇽 (Opción 3)
-https://print.crackstreamslivehd.com/espnmx/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=bc3e59071faf5ac58778d6db4ed24f002598350c-05-1752827326-1752773326
-
-#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 MX 1" group-title="Deportes", ESPN 2 MX 🇲🇽 (Opción 1)
-https://8c51.crackstreamslivehd.com/espn2mx/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=2d1d6d3b718202f1b95bac0f83ddbd9728bdbe8b-87-1752827429-1752773429
-
-#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 MX 2" group-title="Deportes", ESPN 2 MX 🇲🇽 (Opción 2)
-https://florcd1.crackstreamslivehd.com/global/espn2mx/index.m3u8?token=2d1d6d3b718202f1b95bac0f83ddbd9728bdbe8b-87-1752827429-1752773429&ip=189.158.95.93
-
-#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 MX 3" group-title="Deportes", ESPN 2 MX 🇲🇽 (Opción 3)
-https://51a1.crackstreamslivehd.com/espn2mx/tracks-v1a1/mono.m3u8?ip=189.158.95.93&token=6a87f37332123c89edd5e4a2b59fc2fc51fd66c4-ea-1752827415-1752773415
-
-#EXTINF:-1 tvg-id="claro sports" tvg-name="Claro sports" group-title="Deportes", Claro sports 🇲🇽
-https://nfsnew.newkso.ru/nfs/premium933/mono.m3u8
