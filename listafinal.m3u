@@ -27,11 +27,9 @@ http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 LAS ESTRELLAS 🇲🇽
+#EXTINF:-1, LAS ESTRELLAS 🇲🇽
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, CLARO SPORTS 🇲🇽
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1, CALIENTE TV 🇲🇽 [NO 24/7]
-https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
